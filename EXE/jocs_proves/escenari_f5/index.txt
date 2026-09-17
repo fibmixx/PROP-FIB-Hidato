@@ -1,0 +1,2 @@
+Fitxers de dades preparats per a provar la Funcionalitat 5 de repositoris d'hidatos.
+Conte els usuaris de test i dos repositoris; un buit i altre amb hidatos.

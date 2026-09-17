@@ -1,0 +1,2 @@
+0,classic_repo,usr_classic
+1,coop_repo,usr_coop

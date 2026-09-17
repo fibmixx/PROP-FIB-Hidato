@@ -1,0 +1,17 @@
+<map id="Jerarquia Gràfica de la Classe" name="Jerarquia Gràfica de la Classe">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,205,147,230"/>
+<area shape="rect" id="Node000001" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1excepcions_1_1CoordenadesInvalidesException.html" title=" " alt="" coords="195,5,499,45"/>
+<area shape="poly" id="edge29_Node000000_Node000001" title=" " alt="" coords="86,191,103,159,126,122,157,86,193,55,216,43,219,48,196,60,160,89,131,126,107,162,91,194"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1excepcions_1_1DimensionsInvalidesException.html" title=" " alt="" coords="195,69,499,109"/>
+<area shape="poly" id="edge30_Node000000_Node000002" title=" " alt="" coords="97,193,139,154,165,135,194,119,224,107,226,112,196,124,168,140,142,159,100,197"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1excepcions_1_1GeneradorNoPotGenerarCami.html" title=" " alt="" coords="195,133,499,173"/>
+<area shape="poly" id="edge31_Node000000_Node000003" title=" " alt="" coords="134,198,194,183,246,171,248,176,195,188,136,203"/>
+<area shape="rect" id="Node000004" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1excepcions_1_1NoEsMapaCorrecte.html" title=" " alt="" coords="195,197,499,237"/>
+<area shape="poly" id="edge32_Node000000_Node000004" title=" " alt="" coords="160,215,195,215,195,220,160,220"/>
+<area shape="rect" id="Node000005" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1excepcions_1_1NoEsPotAgafarAdjacencia.html" title=" " alt="" coords="195,261,499,301"/>
+<area shape="poly" id="edge33_Node000000_Node000005" title=" " alt="" coords="136,231,195,247,248,259,246,264,194,252,134,236"/>
+<area shape="rect" id="Node000006" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1excepcions_1_1NoEsPotConvertirACircular.html" title=" " alt="" coords="195,325,499,365"/>
+<area shape="poly" id="edge34_Node000000_Node000006" title=" " alt="" coords="100,238,142,276,168,295,196,311,226,323,224,328,194,316,165,300,139,280,97,242"/>
+<area shape="rect" id="Node000007" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1excepcions_1_1ValorTileInvalidException.html" title=" " alt="" coords="195,389,499,429"/>
+<area shape="poly" id="edge35_Node000000_Node000007" title=" " alt="" coords="91,241,107,273,131,309,160,345,196,375,219,387,216,392,193,380,157,349,126,312,103,275,86,244"/>
+</map>

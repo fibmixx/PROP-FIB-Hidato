@@ -1,0 +1,2 @@
+Fitxers de dades preparats per a provar la Funcionalitat 2 de resolucio i validacio.
+Conte els usuaris de test, un repositori minim amb hidatos controlat i diferents jocs a mig fer.

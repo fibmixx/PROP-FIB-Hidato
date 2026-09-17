@@ -1,0 +1,7 @@
+<map id="edu.upc.prop.clusterxx.domain.controladors.CtrlGame" name="edu.upc.prop.clusterxx.domain.controladors.CtrlGame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="435,37,747,77"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1controladors_1_1CtrlUsuari.html" title=" " alt="" coords="5,5,317,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,35,435,43,434,48,331,41"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1controladors_1_1CtrlHidato.html" title=" " alt="" coords="5,69,317,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="331,74,434,66,435,72,332,79"/>
+</map>

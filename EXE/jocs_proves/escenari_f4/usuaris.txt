@@ -1,0 +1,2 @@
+userProva,123pwd,0,false
+admin,admin,0,true

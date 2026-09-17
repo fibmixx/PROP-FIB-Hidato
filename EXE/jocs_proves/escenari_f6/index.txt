@@ -1,0 +1,2 @@
+Fitxers de dades preparats per a provar la Funcionalitat 6 de timer.
+Conte els usuaris de test i un repositori minim amb un hidato controlat, a més d'una partida a mig fer.

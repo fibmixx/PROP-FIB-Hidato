@@ -1,0 +1,3 @@
+Directori principal de jocs de proves per al projecte.
+Conte els conjunts de dades, escenaris de control i fitxers de configuracio preparats per a avaluar de forma
+interactiva cadascuna de les 9 funcionalitats del sistema.

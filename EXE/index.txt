@@ -1,0 +1,4 @@
+EXE/
+	instruccions.txt -> Instruccions de com exectuar el programa.
+	jocs_proves/ -> Directori amb els fitxers necessitats per als jocs de proves.
+	

@@ -1,0 +1,11 @@
+<map id="edu.upc.prop.clusterxx.presentation.paneles.JugarPanel" name="edu.upc.prop.clusterxx.presentation.paneles.JugarPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,211,320,251"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="68,115,129,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,151,153,209,148,212,111,154"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1presentation_1_1paneles_1_1TileButton.html" title=" " alt="" coords="153,108,468,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,158,192,213,189,208,270,153"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="168,13,237,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="227,46,292,106,289,110,223,50"/>
+<area shape="rect" id="Node000005" href="$enumedu_1_1upc_1_1prop_1_1clusterxx_1_1presentation_1_1paneles_1_1TileButton_1_1ShapeType.html" title="Enum para representar los tipos de formas disponibles para el botón." alt="" coords="261,5,576,45"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="390,57,333,110,329,106,386,53"/>
+</map>

@@ -1,0 +1,2 @@
+Fitxers de dades preparats per a provar la Funcionalitat 7 de ranking i records.
+Conte els usuaris de test i un repositori minim amb un hidato controlat, a més d'un ranking global.

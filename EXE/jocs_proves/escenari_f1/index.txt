@@ -1,0 +1,2 @@
+Fitxers de dades preparats per a provar la Funcionalitat 1 de generacio.
+Conte els usuaris de test i un repositori minim amb hidatos controlat.

@@ -1,0 +1,3 @@
+usr_coop,84288
+usr_classic,62285
+admin,0

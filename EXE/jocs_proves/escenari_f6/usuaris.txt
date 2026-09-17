@@ -1,0 +1,3 @@
+admin,admin,0,true
+crono1,crono1,0,false
+crono2,crono2,0,false

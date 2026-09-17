@@ -1,0 +1,2 @@
+Fitxers de dades preparats per a provar la Funcionalitat 4 de proposar i validar hidatos d'usuari.
+Conte els usuaris de test i un repositori minim.

@@ -1,0 +1,15 @@
+var searchData=
+[
+  ['seleccionat_0',['seleccionat',['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1controladors_1_1CtrlRepositori.html#a508c407c39e3ab013dbe275df663eeb8',1,'edu::upc::prop::clusterxx::domain::controladors::CtrlRepositori']]],
+  ['selected_1',['selected',['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1presentation_1_1windows_1_1UserSelectionWindow_1_1UserCheckBox.html#a01180193bb9cd6548743f30128797ff0',1,'edu::upc::prop::clusterxx::presentation::windows::UserSelectionWindow::UserCheckBox']]],
+  ['selectedgame_2',['selectedGame',['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1controladors_1_1CtrlGame.html#aa942421b17de00304bb4cbc2cc97e41f',1,'edu::upc::prop::clusterxx::domain::controladors::CtrlGame']]],
+  ['selectedusers_3',['selectedUsers',['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1presentation_1_1windows_1_1UserSelectionWindow.html#ade880f6788f9396048c9c0a4b4edd7ff',1,'edu::upc::prop::clusterxx::presentation::windows::UserSelectionWindow']]],
+  ['shapetype_4',['shapeType',['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1presentation_1_1paneles_1_1TileButton.html#ab6fb4465ad10a4162b39f8510a108dc8',1,'edu::upc::prop::clusterxx::presentation::paneles::TileButton']]],
+  ['sides_5',['sides',['../enumedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1enumerations_1_1TipusTiles.html#aa09a75fc6bd1799071ec29594016e44d',1,'edu::upc::prop::clusterxx::domain::enumerations::TipusTiles']]],
+  ['solucions_6',['solucions',['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1algorismes_1_1Solver.html#ae71472dc8d395af12159a601d2a3973f',1,'edu::upc::prop::clusterxx::domain::algorismes::Solver']]],
+  ['solver_7',['solver',['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1controladors_1_1CtrlHidato.html#a881f9730459a6583989644b18eeeb0e1',1,'edu::upc::prop::clusterxx::domain::controladors::CtrlHidato']]],
+  ['square_8',['SQUARE',['../enumedu_1_1upc_1_1prop_1_1clusterxx_1_1presentation_1_1paneles_1_1TileButton_1_1ShapeType.html#a36cb7bb2ce0d45aa43f66385dd48e6f2',1,'edu::upc::prop::clusterxx::presentation::paneles::TileButton::ShapeType']]],
+  ['startssolved_9',['startsSolved',['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1model_1_1Tile.html#a1310ea436aee9195f80beec90bcdc072',1,'edu::upc::prop::clusterxx::domain::model::Tile']]],
+  ['starttime_10',['startTime',['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1model_1_1Game.html#a773aca02f4557bb4601f9635a3d1b6c0',1,'edu::upc::prop::clusterxx::domain::model::Game']]],
+  ['swingtimer_11',['swingtimer',['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1presentation_1_1paneles_1_1JugarCompPanel.html#aa322ae4e180644cc5dda6657a32939dd',1,'edu.upc.prop.clusterxx.presentation.paneles.JugarCompPanel.swingTimer'],['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1presentation_1_1paneles_1_1JugarCoopPanel.html#aee0a085d858cb3d7a376a60b9311dc62',1,'edu.upc.prop.clusterxx.presentation.paneles.JugarCoopPanel.swingTimer'],['../classedu_1_1upc_1_1prop_1_1clusterxx_1_1presentation_1_1paneles_1_1JugarPanel.html#ae64f875bb98c90f4b4d9714441e07efc',1,'edu.upc.prop.clusterxx.presentation.paneles.JugarPanel.swingTimer']]]
+];

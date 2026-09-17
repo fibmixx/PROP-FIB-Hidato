@@ -1,0 +1,2 @@
+Fitxers de dades preparats per a provar la Funcionalitat 8 de guardar i carregar partides.
+Conte els usuaris de test i un repositori minim amb dos hidatos, a més de tres partides diferents.

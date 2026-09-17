@@ -1,0 +1,4 @@
+EXE/
+	index.txt -> Aquest document on es descriu l'estructura del directori.
+	Doxygen_Documentation -> Comprimit amb el directori html/ on es la web amb la documentacio, i el fitxer Doxyfile, amb la configuracio feta servir per a generar el directori html/.
+	

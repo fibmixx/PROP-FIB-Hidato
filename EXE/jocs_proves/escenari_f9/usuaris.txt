@@ -1,0 +1,2 @@
+usr,usr,0,false
+admin,admin,0,true

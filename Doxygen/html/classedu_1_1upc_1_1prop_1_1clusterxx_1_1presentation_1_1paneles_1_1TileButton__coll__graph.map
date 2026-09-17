@@ -1,0 +1,7 @@
+<map id="edu.upc.prop.clusterxx.presentation.paneles.TileButton" name="edu.upc.prop.clusterxx.presentation.paneles.TileButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,108,320,148"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="20,13,89,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,46,144,106,141,110,75,50"/>
+<area shape="rect" id="Node000003" href="$enumedu_1_1upc_1_1prop_1_1clusterxx_1_1presentation_1_1paneles_1_1TileButton_1_1ShapeType.html" title="Enum para representar los tipos de formas disponibles para el botón." alt="" coords="113,5,428,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,57,185,110,181,106,238,53"/>
+</map>

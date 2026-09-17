@@ -1,0 +1,4 @@
+avg,avg,81985,false
+noob,noob,0,false
+admin,admin,0,true
+champ,champ,90551,false

@@ -1,0 +1,2 @@
+0,winner,champ
+1,mig,avg

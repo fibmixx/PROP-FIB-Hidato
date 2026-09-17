@@ -1,0 +1,6 @@
+DOCS/
+	index.txt -> Aquest document on es descriu l'estructura del directori.
+	manual_usuari.pdf -> Document que funciona com a manual per a un possible usuari nou al sistema que enseya com fer servir l'aplicacio.
+	classesPerMembre.pdf -> Document que enllista quines classes del treball ha fet cada membre del grup.
+	jocs_proves.pdf -> Document que descriu cada jocs de proves pensat, quins objectius te, quins fitxers necessita i quins son els valors i efectes estudiats.
+	

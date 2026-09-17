@@ -1,0 +1,4 @@
+Per executar el programa s'ha d'utilizar la comanda seguent al directori FONTS/
+
+
+.\gradlew.bat run

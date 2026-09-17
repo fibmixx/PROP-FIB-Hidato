@@ -1,0 +1,3 @@
+admin,admin,0,true
+usr_classic,classic,62285,false
+usr_coop,coop,84288,false

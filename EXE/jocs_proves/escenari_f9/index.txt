@@ -1,0 +1,2 @@
+Fitxers de dades preparats per a provar la Funcionalitat 9 de dificultat i pistes.
+Conte els usuaris de test i un repositori minim amb un hidato i una partida vinculada.

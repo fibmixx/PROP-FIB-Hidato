@@ -1,0 +1,2 @@
+Fitxers de dades preparats per a provar la Funcionalitat 3 de joc interactiu.
+Conte els usuaris de test i un repositori minim amb un hidato controlat.

@@ -1,0 +1,5 @@
+FONTS/
+	index.txt -> Aquest document on es descriu l'estructura del directori.
+	build.gradle -> Programa per a compilar tota l'aplicacio donats els fitxers font.
+	src/ -> Directori amb tot el codi font.
+	data/ -> Directori on es guarden el fitxers de persistencia.

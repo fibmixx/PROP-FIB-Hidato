@@ -1,0 +1,5 @@
+<map id="edu.upc.prop.clusterxx.domain.model.Tile" name="edu.upc.prop.clusterxx.domain.model.Tile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,108,301,133"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1model_1_1Hidato.html" title=" " alt="" coords="17,5,289,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,59,156,108,151,108,151,59"/>
+</map>

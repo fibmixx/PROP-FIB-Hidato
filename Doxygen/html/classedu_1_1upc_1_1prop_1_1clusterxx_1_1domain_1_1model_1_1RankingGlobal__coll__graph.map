@@ -1,0 +1,9 @@
+<map id="edu.upc.prop.clusterxx.domain.model.RankingGlobal" name="edu.upc.prop.clusterxx.domain.model.RankingGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="760,5,1032,45"/>
+<area shape="rect" id="Node000002" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1model_1_1Ranking.html" title=" " alt="" coords="5,20,277,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,17,327,15,440,10,555,10,760,15,760,20,555,15,441,16,327,20,291,23"/>
+<area shape="rect" id="Node000003" href="$classedu_1_1upc_1_1prop_1_1clusterxx_1_1domain_1_1model_1_1RankingGlobal.html" title=" " alt="" coords="327,68,599,108"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="289,59,329,65,328,71,289,65"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="612,64,759,42,760,48,613,69"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="433,52,444,44,463,41,479,43,490,49,495,58,493,68,488,67,490,59,487,53,478,49,463,47,446,49,436,56"/>
+</map>
