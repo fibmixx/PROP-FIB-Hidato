@@ -6,7 +6,7 @@ Developed by
 * [@fibmixx](https://github.com/fibmixx)
 * [@alexia-cpu](https://github.com/alexia-cpu)
 * [@hectorgutierrezz](https://github.com/hectorgutierrezz)
-* [@jordi](https://github.com/alexia-cpu)
+* [@Obsidian234](https://github.com/Obsidian234)
 
 ---
 
